@@ -1,0 +1,4 @@
+com.arstuff.ar5_0_3
+1
+1.0
+name='com.epicgames.unreal.GameActivity.AppType' value=''
